@@ -1,5 +1,5 @@
 ## Hey! 👋
-I just make Add-ons when I'm bored, feel free to use any of the code provided!
+I just make Add-ons when I'm bored, feel free to use any of the code provided.
 
 ## Contact
 - [@forbiddensteve](./) on Discord
